@@ -1,0 +1,2 @@
+curl -fsSL "https://alistgo.com/v3.sh" -o v3.sh && bash v3.sh
+http://192.168.168.18:5244/
